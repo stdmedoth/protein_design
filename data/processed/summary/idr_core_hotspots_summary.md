@@ -11,7 +11,7 @@ Os resíduos abaixo são ordenados pela soma da variação absoluta da frequênc
 ## P36R
 
 - Resíduos candidatos do core: `GLU317, MET401, ARG400, ASP468, MET354, ASP249, LYS252, ILE251, LEU240, THR464`
-- Frame exportado: `results/2026-10-14/idr_core_hotspots/p36r_representative_core.pdb` (rep2, frame 2654)
+- Estrutura representativa: [`structures/representative_cores/p36r_representative_core.pdb`](../../../structures/representative_cores/p36r_representative_core.pdb) (rep2, frame 2654)
 
 | Rank | Core | IDR parceiros | Δ absoluto total | Ganhos | Máx. frequência mutante |
 |---:|---|---|---:|---:|---:|
@@ -29,7 +29,7 @@ Os resíduos abaixo são ordenados pela soma da variação absoluta da frequênc
 ## G38R
 
 - Resíduos candidatos do core: `LYS430, ALA393, ASN431, MET354, VAL392, ALA389, LEU240, ARG400, VAL352, ASP249`
-- Frame exportado: `results/2026-10-14/idr_core_hotspots/g38r_representative_core.pdb` (rep1, frame 869)
+- Estrutura representativa: [`structures/representative_cores/g38r_representative_core.pdb`](../../../structures/representative_cores/g38r_representative_core.pdb) (rep1, frame 869)
 
 | Rank | Core | IDR parceiros | Δ absoluto total | Ganhos | Máx. frequência mutante |
 |---:|---|---|---:|---:|---:|
@@ -47,7 +47,7 @@ Os resíduos abaixo são ordenados pela soma da variação absoluta da frequênc
 ## D40G
 
 - Resíduos candidatos do core: `ASP468, VAL352, MET354, THR350, ASN396, MET401, ARG400, ASN351, ALA389, ASP353`
-- Frame exportado: `results/2026-10-14/idr_core_hotspots/d40g_representative_core.pdb` (rep1, frame 559)
+- Estrutura representativa: [`structures/representative_cores/d40g_representative_core.pdb`](../../../structures/representative_cores/d40g_representative_core.pdb) (rep1, frame 559)
 
 | Rank | Core | IDR parceiros | Δ absoluto total | Ganhos | Máx. frequência mutante |
 |---:|---|---|---:|---:|---:|
@@ -65,7 +65,7 @@ Os resíduos abaixo são ordenados pela soma da variação absoluta da frequênc
 ## D40Y
 
 - Resíduos candidatos do core: `MET401, ARG400, THR464, LEU240, ASP249, ASP468, GLU317, ASN396, LYS252, ALA389`
-- Frame exportado: `results/2026-10-14/idr_core_hotspots/d40y_representative_core.pdb` (rep2, frame 2369)
+- Estrutura representativa: [`structures/representative_cores/d40y_representative_core.pdb`](../../../structures/representative_cores/d40y_representative_core.pdb) (rep2, frame 2369)
 
 | Rank | Core | IDR parceiros | Δ absoluto total | Ganhos | Máx. frequência mutante |
 |---:|---|---|---:|---:|---:|

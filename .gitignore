@@ -1,0 +1,9 @@
+# Resultados e modelos gerados durante a execução local do pipeline
+results/
+models/
+ProteinMPNN/
+
+# Arquivos temporários de Python e Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]

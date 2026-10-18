@@ -13,7 +13,7 @@
   "mutations": [
     {
       "mutation": "p36r",
-      "representative_pdb": "results/2026-10-14/idr_core_hotspots/p36r_representative_core.pdb",
+      "representative_pdb": "structures/representative_cores/p36r_representative_core.pdb",
       "representative_replica": 2,
       "representative_frame": 2654,
       "core_hotspots": [
@@ -9429,7 +9429,7 @@
     },
     {
       "mutation": "g38r",
-      "representative_pdb": "results/2026-10-14/idr_core_hotspots/g38r_representative_core.pdb",
+      "representative_pdb": "structures/representative_cores/g38r_representative_core.pdb",
       "representative_replica": 1,
       "representative_frame": 869,
       "core_hotspots": [
@@ -18214,7 +18214,7 @@
     },
     {
       "mutation": "d40g",
-      "representative_pdb": "results/2026-10-14/idr_core_hotspots/d40g_representative_core.pdb",
+      "representative_pdb": "structures/representative_cores/d40g_representative_core.pdb",
       "representative_replica": 1,
       "representative_frame": 559,
       "core_hotspots": [
@@ -27428,7 +27428,7 @@
     },
     {
       "mutation": "d40y",
-      "representative_pdb": "results/2026-10-14/idr_core_hotspots/d40y_representative_core.pdb",
+      "representative_pdb": "structures/representative_cores/d40y_representative_core.pdb",
       "representative_replica": 2,
       "representative_frame": 2369,
       "core_hotspots": [
